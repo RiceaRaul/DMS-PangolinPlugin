@@ -1,5 +1,5 @@
 {
-  "id": "pangolin-widget",
+  "id": "pangolinWidget",
   "name": "Pangolin Widget",
   "description": "Pangolin VPN status, control, and peer monitor (CLI-backed)",
   "version": "1.0.0",
