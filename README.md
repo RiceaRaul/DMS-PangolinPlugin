@@ -33,7 +33,8 @@ Required:
 Optional:
 
 - Any terminal emulator (`kitty`, `alacritty`, `foot`, `wezterm`, `gnome-terminal`, `konsole`, `xterm`) for `pangolin login` flow
-- NOPASSWD sudo rule via included `install-sudoers.sh` (skips askpass prompt)
+- NOPASSWD sudo rule via included `install-sudoers.sh` (skips askpass prompt — recommended)
+- Askpass GUI helper if NOPASSWD not used: one of `zenity`, `kdialog`, `ksshaskpass`, `rofi`, or any system `ssh-askpass`
 
 ## Install
 
