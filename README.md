@@ -21,11 +21,19 @@ Bar pill, control center quick tile, popout with peers/routes/connection details
 ### Settings
 ![settings](docs/screenshots/settings.png)
 
-## Requirements
+## Dependencies
 
-- DankMaterialShell + Quickshell
-- `pangolin` CLI in `$PATH`
-- `sudo` (for `pangolin up/down`); optional NOPASSWD via included sudoers helper
+Required:
+
+- [`quickshell`](https://quickshell.outfoxxed.me/) — shell runtime
+- [`DankMaterialShell`](https://github.com/AvengeMedia/DankMaterialShell) — host shell + theme
+- [`pangolin`](https://pangolin.net) — CLI in `$PATH`
+- `sudo` — for `pangolin up`/`down`
+
+Optional:
+
+- Any terminal emulator (`kitty`, `alacritty`, `foot`, `wezterm`, `gnome-terminal`, `konsole`, `xterm`) for `pangolin login` flow
+- NOPASSWD sudo rule via included `install-sudoers.sh` (skips askpass prompt)
 
 ## Install
 
