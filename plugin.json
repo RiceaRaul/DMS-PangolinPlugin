@@ -1,0 +1,15 @@
+{
+  "id": "pangolin-widget",
+  "name": "Pangolin Widget",
+  "description": "Pangolin VPN status, control, and peer monitor (CLI-backed)",
+  "version": "1.0.0",
+  "author": "Ricea Ion Raul",
+  "icon": "vpn_lock",
+  "type": "widget",
+  "component": "./Widget.qml",
+  "settings": "./Settings.qml",
+  "permissions": [
+    "settings_read",
+    "settings_write"
+  ]
+}
