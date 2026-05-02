@@ -85,4 +85,4 @@ Stored in `~/.config/DankMaterialShell/plugin_settings.json` under this plugin i
 
 ## License
 
-TBD
+MIT — see [LICENSE](LICENSE).
