@@ -1,0 +1,2 @@
+singleton PangolinService 1.0 PangolinService.qml
+singleton PangolinNotifier 1.0 PangolinNotifier.qml
