@@ -1,0 +1,7 @@
+StatusDot 1.0 StatusDot.qml
+HorizontalPill 1.0 HorizontalPill.qml
+VerticalPill 1.0 VerticalPill.qml
+QuickTile 1.0 QuickTile.qml
+PopoutBody 1.0 PopoutBody.qml
+PeerRow 1.0 PeerRow.qml
+EmptyAuth 1.0 EmptyAuth.qml
